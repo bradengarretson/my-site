@@ -12,11 +12,6 @@
     --text-secondary-color: var(--text-secondary-color-dark) !important;
     --primary-color: var(--primary-color-dark);
     --secondary-color: var(--secondary-color-dark);
-
-    /* Modify the color of hyperlinks in dark mode */
-    a {
-        color: #00FFFF; /* Change to your desired hyperlink color */
-    }
 }
 
 .text-secondary {
